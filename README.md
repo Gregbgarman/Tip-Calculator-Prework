@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-LiceCap not working with my mac (I have most recent version of Big Sur) so I attached 3 images that show the different tabs of the tip
+LiceCap not working with my mac (I have most recent version of Big Sur) so I attached 3 images that show the different tabs of the tip. I hope that's alright.
 
-15%
+--- 15% ---
 
 <img src='https://github.com/Gregbgarman/Tip-Calculator-Prework/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-16%20at%2017.02.04.png' width=250>
 
-18%
+--- 18% ---
 
 <img src='https://github.com/Gregbgarman/Tip-Calculator-Prework/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-16%20at%2017.02.12.png' width=250>
 
-20%
+--- 20% ---
 
 <img src='https://github.com/Gregbgarman/Tip-Calculator-Prework/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-16%20at%2017.02.18.png' width=250>
 
