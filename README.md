@@ -32,6 +32,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+<img src='https://github.com/Gregbgarman/Tip-Calculator-Prework/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-16%20at%2017.02.04.png' width=250>
+
 ## Notes
 
 First IOS app
