@@ -36,7 +36,9 @@ LiceCap not working with my mac (I have most recent version of Big Sur) so I att
 
 <img src='https://github.com/Gregbgarman/Tip-Calculator-Prework/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-16%20at%2017.02.12.png' width=250>
 
+20%
 
+<img src='https://github.com/Gregbgarman/Tip-Calculator-Prework/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-16%20at%2017.02.18.png' width=250>
 
 
 ## Notes
